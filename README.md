@@ -6,7 +6,6 @@
 This is a Power BI file containing an interactive dashboard for analysis. It provides insights into:  
 - 📍 Restaurant locations  
 - ⭐ Average ratings  
-- 📈 Order patterns  
 - 🍽️ Cuisine diversity  
 - ...and more!
 
