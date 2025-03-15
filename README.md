@@ -11,7 +11,7 @@ This is a Power BI file containing an interactive dashboard for analysis. It pro
 
 ### 📜 User Guide for Interacting with the Dashboard.pdf  
 This PDF file provides guidance on using the Power BI dashboard, including:  
-- 🖥️ Step-by-step instructions.  
+- 🖥️ Instructions.  
 - 📸 Screenshots for reference.  
 - ℹ️ Detailed feature explanations.  
 
